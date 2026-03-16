@@ -1,2 +1,2 @@
 # LearnCPP
-A public repo with essentials of CPP
+Essence of C++ 
